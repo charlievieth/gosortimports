@@ -13,7 +13,7 @@ the value of the local flag.
 ## Installation
 
 ```sh
-go install github.com/charlievieth/utils/gosortimports
+go install github.com/charlievieth/gosortimports
 ```
 
 ## Examples

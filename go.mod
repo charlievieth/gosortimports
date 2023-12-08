@@ -1,4 +1,4 @@
-module github.com/charlievieth/utils/gosortimports
+module github.com/charlievieth/gosortimports
 
 go 1.19
 

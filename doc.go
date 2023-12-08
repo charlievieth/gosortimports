@@ -3,7 +3,7 @@ Command [gosortimports] is a more aggressive version of [goimports] that handles
 very badly grouped imports and adds [gofmt's] simplify code option (-s).
 Otherwise it is the same as [goimports].
 
-	$ go install github.com/charlievieth/utils/gosortimports
+	$ go install https://github.com/charlievieth/gosortimports
 
 In addition to fixing imports, gosortimports also formats your code in the
 same style as gofmt so it can be used as a replacement for your editor's
@@ -36,7 +36,7 @@ working and see what gosortimports is doing.
 
 Happy hacking!
 
-[gosortimports]: https://github.com/charlievieth/utils/tree/master/gosortimports
+[gosortimports]: https://github.com/charlievieth/gosortimports
 [goimports]: https://pkg.go.dev/golang.org/x/tools/cmd/goimports
 [gofmt's]: https://pkg.go.dev/cmd/gofmt
 */
