@@ -3,7 +3,7 @@
 Command gosortimports is a more aggressive version of
 [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports)
 that handles very badly grouped imports and adds [gofmt's](https://pkg.go.dev/cmd/gofmt)
-simplify code option (-s). Otherwise it is the same as [goimports].
+simplify code option (-s). Otherwise it is the same as goimports.
 
 **Note:** Since gosortimports undoes any existing import groupings it is
 recommended to run it with the `-local` flag so that it can properly group
